@@ -9,6 +9,7 @@ local Translations = {
     ["No matar a mis amigos"] = "不击杀我的好友",
     ["Seleccionar jugador"] = "选择玩家",
     ["Matar jugador"] = "击杀玩家",
+    ["Sin jugadores"] = "无玩家",
     ["Cerrar Script"] = "关闭脚本",
 }
 
